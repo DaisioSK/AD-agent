@@ -1,1 +1,6 @@
-langchain\nselenium\nbeautifulsoup4\npillow\npandas\nopencv-python
+langchain
+selenium
+beautifulsoup4
+pillow
+pandas
+opencv-python
