@@ -1,0 +1,1 @@
+langchain\nselenium\nbeautifulsoup4\npillow\npandas\nopencv-python
