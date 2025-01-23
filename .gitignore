@@ -6,6 +6,7 @@ __pycache__/
 *.so
 
 # Virtual environment folders
+.venv/
 venv/
 env/
 .ai_agent_env/ # 如果 Conda 环境与项目文件夹混合
